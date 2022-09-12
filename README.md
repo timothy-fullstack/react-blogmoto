@@ -1,3 +1,4 @@
 # react-blogmoto
 
-This project uses ReactJS and JSON server
+### A simple blog posting website
+#### This project uses ReactJS and JSON server
